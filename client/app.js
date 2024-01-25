@@ -3,6 +3,8 @@ window.paypal
     style: {
       shape: "rect",
       layout: "vertical",
+      //color: 'blue',
+      //label: 'paypal'
     },
     async createOrder() {
       try {
